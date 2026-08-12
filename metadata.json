@@ -1,0 +1,6 @@
+{
+  "name": "The World Is Yours - 3D Birthday Journey",
+  "description": "An interactive 3D Earth globe birthday game featuring landmarks across all 7 continents, memory notes, souvenir collection, and a secret constellation reveal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
